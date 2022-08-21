@@ -20,7 +20,7 @@ public class day : MonoBehaviour
         }
         else if (villan > hero) 
         {
-            print(villan +villanname+ isstrong);
+            print(villan + villanname + isstrong);
         }
 
     }
